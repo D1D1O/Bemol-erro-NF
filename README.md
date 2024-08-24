@@ -21,3 +21,7 @@ Chega nesse erro que não consigo corrigir:
 acessando na sefaz: 13240704565289002190655040024928161592216088
 ![image](https://github.com/user-attachments/assets/f187cf5b-6dc7-47bf-ae14-5d3f9645e371)
 ![image](https://github.com/user-attachments/assets/003b33a6-a498-4a49-b45f-ea71b953bb12)
+
+
+Preciso deste PDF:
+![image](https://github.com/user-attachments/assets/06277231-9f53-470a-a38b-30897ff7fdd6)
