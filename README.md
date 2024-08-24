@@ -24,4 +24,6 @@ acessando na sefaz: 13240704565289002190655040024928161592216088
 
 
 Preciso deste PDF:
+
+
 ![image](https://github.com/user-attachments/assets/06277231-9f53-470a-a38b-30897ff7fdd6)
