@@ -1,6 +1,6 @@
 Bemol-erro-NF
 
-Rebebi o xml no e-mail porém não consigo gerar o danfe pois o mesmo está com erro na estrutura,preciso do DANFE!!!.
+Recebi o xml no e-mail porém não consigo gerar o danfe pois o mesmo está com erro na estrutura,preciso do DANFE!!!.
 ![image](https://github.com/user-attachments/assets/1bc7f3d2-2cfe-4755-8235-346640aad600)
 
 
